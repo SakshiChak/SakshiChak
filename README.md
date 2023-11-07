@@ -10,7 +10,7 @@
 
 📫 Let's connect:
 
-**Email:** [mailme.sakshichak@gmail.com]
+**Email:** [mailme.sakshichak@gmail.com]  
 **LinkedIn:** [www.linkedin.com/in/sakshi-chak]
 
 🚀 Let's code, create, and conquer the digital world together! 🌐✨
