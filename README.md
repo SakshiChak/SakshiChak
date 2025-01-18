@@ -4,11 +4,11 @@ Passionate software developer on a quest to turn caffeine into code! ☕💻
 
 ### 💡 Crafting the Web with Creativity
 
-I thrive on creativity, specializing in crafting captivating web experiences using HTML, CSS, and JavaScript. Often knee-deep in code, I'm currently immersed in crafting my digital portfolio.
+I thrive on creativity, specializing in crafting captivating web experiences using HTML, CSS, JavaScript, and React.js. Often knee-deep in code, I'm currently immersed in crafting my digital portfolio.
 
 ### 🔭 Tools in My Arsenal
 
-[HTML, CSS, JavaScript]
+[HTML, CSS, JavaScript, React.js, Tailwind CSS, Three.js, Node.js, MongoDB, Express.js]
 
 ### 🌱 Continuous Learning
 
@@ -16,7 +16,7 @@ My learning journey knows no bounds. Currently honing my JavaScript skills and d
 
 ### 💬 Let's Chat!
 
-Want to discuss C++, web development, or anything in between? Let's have a conversation!
+Want to discuss C++, web development, MERN stack, or anything in between? Let's have a conversation!
 
 ### 📫 Connect with Me
 
